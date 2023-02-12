@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw18-timer/static/css/main.94c155d5.css",
+    "main.js": "/hw18-timer/static/js/main.cb012d48.js",
+    "static/js/787.d053766a.chunk.js": "/hw18-timer/static/js/787.d053766a.chunk.js",
+    "index.html": "/hw18-timer/index.html",
+    "main.94c155d5.css.map": "/hw18-timer/static/css/main.94c155d5.css.map",
+    "main.cb012d48.js.map": "/hw18-timer/static/js/main.cb012d48.js.map",
+    "787.d053766a.chunk.js.map": "/hw18-timer/static/js/787.d053766a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c155d5.css",
+    "static/js/main.cb012d48.js"
+  ]
+}
